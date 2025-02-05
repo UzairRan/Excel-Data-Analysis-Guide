@@ -12,4 +12,6 @@ What's Included:
 
 🚀 Suitable for students, professionals, and aspiring data analysts.
 
+You can download Excel Notebooks by clicking on view raw, or you can download that.
+
 Feel free to explore, practice, and contribute!
